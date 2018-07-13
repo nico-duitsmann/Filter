@@ -78,3 +78,7 @@ $options = array(
 ## License
 
 GNU General Public License v3. Please see [License File](LICENSE) for more information.
+
+## Disclaimer
+
+The author takes NO responsibility and/or liability for how you choose to use any of the tools/source code/any files provided. The author and anyone affiliated with will not be liable for any losses and/or damages in connection with use of ANY files provided with Filter. By using Filter or any files included, you understand that you are AGREEING to that.
