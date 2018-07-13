@@ -1,0 +1,36 @@
+{
+    "name": "duitni/filter",
+    "description": "Filter regular expression and pattern search",
+    "keywords": [
+        "patternsearch",
+        "filter",
+        "grep",
+        "regex",
+        "pattern",
+        "duitni",
+        "Filter"
+    ],
+    "homepage": "https://github.com/nico-duitsmann/Filter",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Nico Duitsmann",
+            "email": "nico.duitsmann.privat@gmail.com",
+            "homepage": "https://github.com/nico-duitsmann",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Duitni\\Filter\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
