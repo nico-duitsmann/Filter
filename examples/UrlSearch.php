@@ -11,7 +11,7 @@ $opts = array(
     'trimResult' => true
 );
 
-$search  = new Search($opts, 'password', 'http://max-emden.de');
+$search  = new Search($opts, 'password', 'http://example.de');
 $matches = $search->getMatches();
 $stats   = $search->getStats();
 
