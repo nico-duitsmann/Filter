@@ -11,7 +11,7 @@ Filter is a php library to find string like patterns or regular expressions in s
 Via Composer
 
 ``` bash
-$ composer require duitni/filter
+$ composer require duitni/filter dev-master
 ```
 
 Manually
